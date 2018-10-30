@@ -3,22 +3,26 @@
     {
       "id": 1,
       "name": "Nathan De Graaf",
-      "profile_picture": "www.asdf.com"
+      "profile_picture": "www.asdf.com",
+      "connections": [2,3,4]
     },
     {
       "id": 2,
       "name": "joe",
-      "profile_picture": "www.asdf.com"
+      "profile_picture": "www.asdf.com",
+      "connections": [1]
     },
     {
       "id": 3,
       "name": "asdf",
-      "profile_picture": "www.asdf.com"
+      "profile_picture": "www.asdf.com",
+      "connections": [1]
     },
     {
       "id": 4,
       "name": "222f",
-      "profile_picture": "www.asdf.com"
+      "profile_picture": "www.asdf.com",
+      "connections": [1]
     }
   ]
 }
