@@ -11,17 +11,14 @@
       "profile_picture": "www.asdf.com"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "asdf",
       "profile_picture": "www.asdf.com"
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "222f",
       "profile_picture": "www.asdf.com"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
