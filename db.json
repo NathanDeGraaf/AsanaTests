@@ -3,34 +3,28 @@
     {
       "id": 1,
       "name": "Nathan - 1",
-      "profile_picture": "www.asdf.com",
-      "users": [
-        "/user/2",
-        "/user/3"
-      ]
+      "profile_picture": "www.asdf.com"
     },
     {
       "id": 2,
       "name": "Nathan - 2",
-      "profile_picture": "www.asdf.com",
-      "users": [
-        "/user/1"
-      ]
+      "profile_picture": "www.asdf.com"
     },
     {
       "id": 3,
       "name": "Nathan - 3",
-      "profile_picture": "www.asdf.com",
-      "users": [
-        "/user/1"
-      ]
+      "profile_picture": "www.asdf.com"
     },
     {
       "id": 4,
       "name": "Nathan - 4",
-      "profile_picture": "www.asdf.com",
-      "users": [
-      ]
+      "profile_picture": "www.asdf.com"
     }
+  ],
+  "connection": [
+    {userId: "1",friend: "2"}, {userId: "2",friend: "1"}, 
+    {userId: "1",friend: "3"}, {userId: "3",friend: "1"}, 
+    {userId: "1",friend: "4"}, {userId: "4",friend: "1"}, 
+    {userId: "3",friend: "4"}, {userId: "4",friend: "3"}, 
   ]
 }
