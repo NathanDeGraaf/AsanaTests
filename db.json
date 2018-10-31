@@ -2,23 +2,23 @@
   "user": [
     {
       "id": 1,
-      "name": "Nathan - 1",
-      "profile_picture": "www.asdf.com"
+      "name": "Joey",
+      "profile_picture": "www.asdf1.com"
     },
     {
       "id": 2,
-      "name": "Nathan - 2",
-      "profile_picture": "www.asdf.com"
+      "name": "Gabi",
+      "profile_picture": "www.asdf2.com"
     },
     {
       "id": 3,
-      "name": "Nathan - 3",
-      "profile_picture": "www.asdf.com"
+      "name": "Samuel",
+      "profile_picture": "www.asdf3.com"
     },
     {
       "id": 4,
-      "name": "Nathan - 4",
-      "profile_picture": "www.asdf.com"
+      "name": "Nemo",
+      "profile_picture": "www.asdf4.com"
     }
   ],
   "connection": [
