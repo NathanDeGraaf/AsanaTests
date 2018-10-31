@@ -5,8 +5,8 @@
       "name": "Nathan - 1",
       "profile_picture": "www.asdf.com",
       "users": [
-        '/user/2',
-        '/user/3'
+        "/user/2",
+        "/user/3"
       ]
     },
     {
@@ -14,7 +14,7 @@
       "name": "Nathan - 2",
       "profile_picture": "www.asdf.com",
       "users": [
-        '/user/1'
+        "/user/1"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Nathan - 3",
       "profile_picture": "www.asdf.com",
       "users": [
-        '/user/1'
+        "/user/1"
       ]
     },
     {
