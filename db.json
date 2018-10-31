@@ -22,9 +22,9 @@
     }
   ],
   "connection": [
-    {userId: "1",friend: "2"}, {userId: "2",friend: "1"}, 
-    {userId: "1",friend: "3"}, {userId: "3",friend: "1"}, 
-    {userId: "1",friend: "4"}, {userId: "4",friend: "1"}, 
-    {userId: "3",friend: "4"}, {userId: "4",friend: "3"}, 
+    {"userId": "1","friend": "2"}, {"userId": "2","friend": "1"}, 
+    {"userId": "1","friend": "3"}, {"userId": "3","friend": "1"}, 
+    {"userId": "1","friend": "4"}, {"userId": "4","friend": "1"}, 
+    {"userId": "3","friend": "4"}, {"userId": "4","friend": "3"}, 
   ]
 }
