@@ -1,28 +1,36 @@
 {
-  "users": [
+  "user": [
     {
       "id": 1,
-      "name": "Nathan De Graaf",
+      "name": "Nathan - 1",
       "profile_picture": "www.asdf.com",
-      "connections": [2,3,4]
+      "users": [
+        '/user/2',
+        '/user/3'
+      ]
     },
     {
       "id": 2,
-      "name": "joe",
+      "name": "Nathan - 2",
       "profile_picture": "www.asdf.com",
-      "connections": [1]
+      "users": [
+        '/user/1'
+      ]
     },
     {
       "id": 3,
-      "name": "asdf",
+      "name": "Nathan - 3",
       "profile_picture": "www.asdf.com",
-      "connections": [1]
+      "users": [
+        '/user/1'
+      ]
     },
     {
       "id": 4,
-      "name": "222f",
+      "name": "Nathan - 4",
       "profile_picture": "www.asdf.com",
-      "connections": [1]
+      "users": [
+      ]
     }
   ]
 }
